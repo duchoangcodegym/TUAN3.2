@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b5ca988-764a-4f1e-b816-532ff5388275" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2f7yevgF33r4wkjkQpvFhnndsPM" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.daonguocphantu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.gopmang.executor&quot;: &quot;Run&quot;,
+    &quot;Application.inrahinh.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mang.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nguyetonhohon100.executor&quot;: &quot;Run&quot;,
+    &quot;Application.songuyento.executor&quot;: &quot;Run&quot;,
+    &quot;Application.themmotphantu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.timgiatrilonnhat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.xoa1phantu.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/baitaplamlai/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.timgiatrilonnhat">
+    <configuration name="daonguocphantu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="daonguocphantu" />
+      <module name="baitaplamlai" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gopmang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gopmang" />
+      <module name="baitaplamlai" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="themmotphantu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="themmotphantu" />
+      <module name="baitaplamlai" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timgiatrilonnhat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timgiatrilonnhat" />
+      <module name="baitaplamlai" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xoa1phantu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xoa1phantu" />
+      <module name="baitaplamlai" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.timgiatrilonnhat" />
+        <item itemvalue="Application.daonguocphantu" />
+        <item itemvalue="Application.xoa1phantu" />
+        <item itemvalue="Application.themmotphantu" />
+        <item itemvalue="Application.gopmang" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b5ca988-764a-4f1e-b816-532ff5388275" name="Changes" comment="" />
+      <created>1713166511709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713166511709</updated>
+      <workItem from="1713166512799" duration="773000" />
+      <workItem from="1713167312859" duration="3166000" />
+      <workItem from="1713170715432" duration="79000" />
+      <workItem from="1713170814289" duration="44000" />
+      <workItem from="1713170879915" duration="54000" />
+      <workItem from="1713170944724" duration="75000" />
+      <workItem from="1713171034374" duration="74000" />
+      <workItem from="1713171122098" duration="83000" />
+      <workItem from="1713171237728" duration="34000" />
+      <workItem from="1713171287004" duration="42000" />
+      <workItem from="1713171342049" duration="1098000" />
+      <workItem from="1713186709028" duration="79000" />
+      <workItem from="1713232582891" duration="996000" />
+      <workItem from="1713238250586" duration="5000" />
+      <workItem from="1713242303661" duration="783000" />
+      <workItem from="1713336021505" duration="2864000" />
+      <workItem from="1713490361039" duration="12892000" />
+      <workItem from="1713513437575" duration="62000" />
+      <workItem from="1713513515269" duration="238000" />
+      <workItem from="1713513764960" duration="3782000" />
+      <workItem from="1713754828390" duration="325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
