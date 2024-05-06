@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b5ca988-764a-4f1e-b816-532ff5388275" name="Changes" comment="" />
+    <list default="true" id="3b5ca988-764a-4f1e-b816-532ff5388275" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/bai1a1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1a2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2a1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2a2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3a1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3a2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4a1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4a2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5a1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5a2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/daonguocphantu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopmang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inrahinh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nguyetonhohon100.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/songuyento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/themmotphantu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timgiatrilonnhat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xoa1phantu.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,70 +38,90 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2f7yevgF33r4wkjkQpvFhnndsPM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.daonguocphantu.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gopmang.executor&quot;: &quot;Run&quot;,
-    &quot;Application.inrahinh.executor&quot;: &quot;Run&quot;,
-    &quot;Application.mang.executor&quot;: &quot;Run&quot;,
-    &quot;Application.nguyetonhohon100.executor&quot;: &quot;Run&quot;,
-    &quot;Application.songuyento.executor&quot;: &quot;Run&quot;,
-    &quot;Application.themmotphantu.executor&quot;: &quot;Run&quot;,
-    &quot;Application.timgiatrilonnhat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.xoa1phantu.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;E:/baitaplamlai/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.daonguocphantu.executor": "Run",
+    "Application.gopmang.executor": "Run",
+    "Application.inrahinh.executor": "Run",
+    "Application.inraso.executor": "Run",
+    "Application.inraso2.executor": "Run",
+    "Application.inrasocanin2.executor": "Run",
+    "Application.inrasochan.executor": "Run",
+    "Application.inrasochan2.executor": "Run",
+    "Application.inrasole.executor": "Run",
+    "Application.inrasole2.executor": "Run",
+    "Application.inrasotrusosau.executor": "Run",
+    "Application.inrasotrusosau2.executor": "Run",
+    "Application.insocanin.executor": "Run",
+    "Application.mang.executor": "Run",
+    "Application.nguyetonhohon100.executor": "Run",
+    "Application.songuyento.executor": "Run",
+    "Application.themmotphantu.executor": "Run",
+    "Application.timgiatrilonnhat.executor": "Run",
+    "Application.xoa1phantu.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "E:/baitaplamlai/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.timgiatrilonnhat">
-    <configuration name="daonguocphantu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="daonguocphantu" />
+}]]></component>
+  <component name="RunManager" selected="Application.bai3a2">
+    <configuration name="bai1a2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai1a2" />
       <module name="baitaplamlai" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gopmang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gopmang" />
+    <configuration name="bai2a2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai2a2" />
       <module name="baitaplamlai" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="themmotphantu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="themmotphantu" />
+    <configuration name="bai3a2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai3a2" />
       <module name="baitaplamlai" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="timgiatrilonnhat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timgiatrilonnhat" />
+    <configuration name="bai4a2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai4a2" />
       <module name="baitaplamlai" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xoa1phantu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xoa1phantu" />
+    <configuration name="bai5a2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai5a2" />
       <module name="baitaplamlai" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.timgiatrilonnhat" />
-        <item itemvalue="Application.daonguocphantu" />
-        <item itemvalue="Application.xoa1phantu" />
-        <item itemvalue="Application.themmotphantu" />
-        <item itemvalue="Application.gopmang" />
+        <item itemvalue="Application.bai3a2" />
+        <item itemvalue="Application.bai2a2" />
+        <item itemvalue="Application.bai4a2" />
+        <item itemvalue="Application.bai5a2" />
+        <item itemvalue="Application.bai1a2" />
       </list>
     </recent_temporary>
   </component>
@@ -131,22 +172,12 @@
       <workItem from="1713513437575" duration="62000" />
       <workItem from="1713513515269" duration="238000" />
       <workItem from="1713513764960" duration="3782000" />
-      <workItem from="1713754828390" duration="325000" />
+      <workItem from="1713754828390" duration="5352000" />
+      <workItem from="1714976591925" duration="2416000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
